@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+.testimonial-section{
+	Background-color: #f5f5f5;
+	padding:50px;
+}
+.testimonial{
+	Background-color:#fff;
+	border:1px solid black #ccc;
+	padding:15px;
+	margin-bottom: 20px;
+}
+.testimonial-text{
+	
+}
+
+.testimonial-author{
+	text-align:right;
+	font-style: italic;
+}
+
